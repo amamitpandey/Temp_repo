@@ -11,9 +11,12 @@ Blue for skilled job, green for traders or business man
 - Noka ashan
 - Butterfly ashan
 
-### Travelling restrication: 
-from Bangalore to bengal - restricted tue,wed
-Travelling from Bengal to bihar - restricted fri, sunday 
+### Travelling restrication:
+Restricted:
+from Bangalore to bengal - tue,wed
+Bengal to bihar -  fri, sunday 
+Blr to pat - Sat, mon
+Ccu to BLR - Thursday 
 Tax Exemption : NPS - 80CCD(2) comes in both regime, like HRA,LTA, gratuity, undefined limit, partnership, 
 Tax Deduction : 80c, epf 
 Update Pan details in LIC 292 ac - impossible because DOB is different better to wait until maturity
