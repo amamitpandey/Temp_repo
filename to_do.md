@@ -35,7 +35,10 @@ Monitor EPF transfer for AM: Check EPF of rejectation application: if Basic pay 
 
 Check farmer status:
 https://dbtagriculture.bihar.gov.in/regfarmer/pmkisanadmin/StatusLogin.aspx
-Farmer registration of SD: bank-adhar seeding ok, farmer-id updated:  2291395243644
+Farmer registration of SD: bank-adhar seeding ok, 
+SD farmer-id updated:  2291395243644
+VP farmerid - 2371520391917, mo: 6543
+LD farmer id - to be register
 https://bhfr.agristack.gov.in/farmer-registry-bh/#/checkEnrolmentStatus
 https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
 SD: Tr: 30082512250523449802, SD_adhar: 982039234604 - last check(27/9)
