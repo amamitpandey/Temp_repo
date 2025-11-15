@@ -2,7 +2,7 @@
 Make sheet for sync
 
 Sell : Zydus, nv20, icici22, jswenergy
-BUY: Bond,TataPower(LC), Mindspace - max 2l for stable income only for diversification, fair rate:280
+BUY: Bond, TataPower(LT), Mindspace - max 2l for stable income only for diversification, fair rate:280
 
 ## Swing trade stocks:
 ### 10%
@@ -14,9 +14,10 @@ Cipla
 Infy
 Wipro
 Coalindia
-TataSteel(add in category)
+TataSteel
 
 ## To research
+Techno electric
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
 Transportation company- blurdart, vrl, agies, gateway dristipark, 
@@ -24,20 +25,18 @@ Transportation company- blurdart, vrl, agies, gateway dristipark,
 
  
 # growing industry 
-Green Energy - tata power(ST), adani green power(ST), jsw energy(LT)
-Green Energy: ARE&M(LT), EXIDE(LT), M&M, Coal india(ST), 
-Infra: ICICIb22- contain infra, government company, infra etf(LT) 
-AI:  zensar(LT), cyient(LT), infy(ST), Wipro(ST), HCL(st)
+Green Energy - tata power(LT), adani green power(ST), jsw energy(ST)
+Green Energy: ARE&M(ST), EXIDE(ST), M&M, Coal india(ST), 
+AI:  Zensar(LT), cyient(LT), HCL(LT), infy(ST), Wipro(ST), 
 Data center: techno electric(infra engg switch, avg:1450, SC), search for wires & cables
 Oil & paint & chemical: 
 # Stable industry
 Pharma - Zydus(MF), DrReddy(MF), Cipla(ST), sunpharma(LT)
-Addiction - ITC(lt)
-Fmg- itc
-Auto: m&m - lt, Baja auto-st, 
+Addiction - ITC(LT)
+Fmg- itc(LT), search alternative
+Auto: M&M(Lt), Baja auto(St), MarutiSuzuki(ST) 
 Bank: icici(ST), axis(st), idfcfirst-lt, lic-st
 Cables:  LT- (Metals-copper based), Polycab(ST)
-Data centre - techno electric 
 
 ## Note
 
@@ -60,10 +59,10 @@ Repeat same pattern in 6 months at least 2 times
 
 # Monthly strategy
 VP Details:
-Mf 10L
+Mf 20L
+ELSS approx 30k, start reddem from 1/25 and close it
 
 Mp plan:
-ARE&M : 2
 Zensar: 2.6
 Cyeint: 2.6k
 infraIETF: 2.2
