@@ -26,10 +26,9 @@ Land Details:
 Farmer registration for VP, LD 
 
 # Check status monthly:
-Primajan: 253624893360634 Last_Chedked - (1/10)
-pay rajgir tax
+Primajan: 253624893360634 Last_Chedked - (8/10-last updated, last checked 15/11)
 check and fillup parimarajna for rajgir
-Paid bihar bhulagan - 18-30, 7476 SD
+Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 LIC 4157 - last paid: pay after 14/01/26
 
 Monitor EPF transfer for AM: Check EPF of rejectation application: if Basic pay is >15K, no pension, follow up with DL team and fix it : add a req of auto transfer by own
