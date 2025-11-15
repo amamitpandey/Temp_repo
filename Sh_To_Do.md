@@ -1,7 +1,7 @@
 ## To do task:
 Make sheet for sync
 
-Sell : Zydus, nv20, icici22, jswenergy
+Sell : Zydus, nv20, jswenergy
 BUY: Bond, TataPower(LT), Mindspace - max 2l for stable income only for diversification, fair rate:280
 
 ## Swing trade stocks:
