@@ -31,8 +31,6 @@ check and fillup parimarajna for rajgir
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 LIC 4157 - last paid: pay after 14/01/26
 
-Monitor EPF transfer for AM: Check EPF of rejectation application: if Basic pay is >15K, no pension, follow up with DL team and fix it : add a req of auto transfer by own
-
 Check farmer status:
 https://dbtagriculture.bihar.gov.in/regfarmer/pmkisanadmin/StatusLogin.aspx
 Farmer registration of SD: bank-adhar seeding ok, 
