@@ -1,9 +1,7 @@
 To do list  
 ## Urgent
-- tooth pain
-- teeth replacement
-- sai baba hospital process
 - kafka
+- opensearch
 - K8s
 - Git action
 - Helm
