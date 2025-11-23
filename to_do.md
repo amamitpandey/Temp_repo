@@ -18,15 +18,10 @@ Communication skill - search on cg sites
 Sql
 Remove unwanted file on onedrive and backup it. - done upto bnk dir
 Think about HDFC health insurance
-Check for SIR form voter details, if possible fill it online
-
-Land Details:
-Farmer registration for VP, LD 
+Register voter id with mobile no, AP, VP 
+ 
 
 # Check status monthly:
-Primajan: 253624893360634 Last_Chedked - (8/10-last updated, last checked 15/11)
-check and fillup parimarajna for rajgir
-Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 LIC 4157 - last paid: pay after 14/01/26
 
 Check farmer status:
@@ -38,8 +33,10 @@ LD farmer id - to be register
 https://bhfr.agristack.gov.in/farmer-registry-bh/#/checkEnrolmentStatus
 https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
 SD: Tr: 30082512250523449802, SD_adhar: 982039234604 - last check(27/9)
-
-
+Land works:
+Farmer registration for VP, LD, SD on agri portal
+Primajan: 253624893360634 Last_Chedked - (11/21-last updated, last checked 23/11)
+Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 
 
 ## To note/study
