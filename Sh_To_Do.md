@@ -9,6 +9,7 @@ BUY: Bond, TataPower(LT), Mindspace - max 2l for stable income only for diversif
 Reliance 
 Gail 
 ICICI
+HCL
 ### 5%
 Cipla
 Infy
