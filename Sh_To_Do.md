@@ -18,7 +18,9 @@ Coalindia
 TataSteel
 
 ## To research
-Techno electric
+Data center - Techno electric - found good fundamental
+AI - cyeint, need one more
+Semiconductor - 
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
 Transportation company- blurdart, vrl, agies, gateway dristipark, 
