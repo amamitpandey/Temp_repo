@@ -18,6 +18,7 @@ Communication skill - search on cg sites
 Sql
 Remove unwanted file on onedrive and backup it. - done upto bnk dir
 Think about HDFC health insurance
+Fill up SIR for mp
 Register voter id with mobile no, AP, VP 
  
 
