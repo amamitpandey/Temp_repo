@@ -19,8 +19,8 @@ TataSteel
 
 ## To research
 Data center - Techno electric - found good fundamental
-AI - cyeint, need one more
-Semiconductor - 
+AI - cyeint,  Happiest Minds-analyis
+Semiconductor - Kaynes Technology, tata elexi, IPO-tata electronics
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
 Transportation company- blurdart, vrl, agies, gateway dristipark, 
