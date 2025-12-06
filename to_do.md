@@ -18,8 +18,6 @@ Communication skill - search on cg sites
 Sql
 Remove unwanted file on onedrive and backup it. - done upto bnk dir
 Think about HDFC health insurance
-Fill up SIR for mp
-Register voter id with mobile no, AP, VP 
  
 
 # Check status monthly:
@@ -38,6 +36,7 @@ Land works:
 Farmer registration for VP, LD, SD on agri portal
 Primajan: 253624893360634 Last_Chedked - (11/21-last updated, last checked 23/11)
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
+Register voter id with mobile no, AP - filled up search by mobile_no (6/12/25), VP - may be fill up with Bihar 
 
 
 ## To note/study
@@ -53,6 +52,9 @@ http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.
 1-14
 https://www.englishwale.com/daily-use-english-sentences/
 Lesson - 11
+
+Filled SIR for mp, incorrect filled up by BLO
+
 
 
 
