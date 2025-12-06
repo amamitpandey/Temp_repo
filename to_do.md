@@ -18,6 +18,7 @@ Communication skill - search on cg sites
 Sql
 Remove unwanted file on onedrive and backup it. - done upto bnk dir
 Think about HDFC health insurance
+see earn FD on binace
  
 
 # Check status monthly:
