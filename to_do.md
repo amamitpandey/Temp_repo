@@ -37,7 +37,7 @@ Land works:
 Farmer registration for VP, LD, SD on agri portal
 Primajan: 253624893360634 Last_Chedked - (11/21-last updated, last checked 23/11)
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
-Register voter id with mobile no, AP - filled up search by mobile_no (6/12/25), VP - may be fill up with Bihar 
+Register voter id with mobile no, VP - delete voter from WB fill up mobile no bihar, correct father no using PAN 
 
 
 ## To note/study
