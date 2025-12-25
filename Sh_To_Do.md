@@ -1,7 +1,7 @@
 ## To do task:
 Make sheet for sync
 
-Sell : Zydus, nv20, jswenergy
+Sell : jswenergy
 BUY: Bond, TataPower(LT), Mindspace - max 2l for stable income only for diversification, fair rate:280
 
 ## Swing trade stocks:
@@ -47,7 +47,7 @@ Cables:  LT- (Metals-copper based), Polycab(ST)
 
 ### Long term strategy:
 - Mid, small cap
-- Max 2l per stock
+- Max 3l per stock
 - PB<market peers(except cyclic stock)
 - Strong fundamental more than 15 percent growth, less debt, statable promoters
 - Dividend is optional 
@@ -63,7 +63,7 @@ Repeat same pattern in 6 months at least 2 times
 # Monthly strategy
 VP Details:
 Mf 20L
-ELSS approx 30k, start reddem from 1/25 and close it
+ELSS approx 30k, start reddem from 1/26 and close it
 
 Mp plan:
 Zensar: 2.6
