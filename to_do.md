@@ -1,6 +1,6 @@
 To do list  
 ## Urgent
-- kafka
+- kafka - complete udemay training
 - opensearch
 - K8s
 - Git action
@@ -11,6 +11,8 @@ To do list
 
 
 ## Normal
+Reset IRCTC pass,
+Correct Voter card of VP Bihar
 Java coding test
 People management 
 Email writing skill - search on cg sites
