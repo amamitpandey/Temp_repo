@@ -11,8 +11,6 @@ To do list
 
 
 ## Normal
-Reset IRCTC pass,
-Correct Voter card of VP Bihar
 Java coding test
 People management 
 Email writing skill - search on cg sites
@@ -24,7 +22,9 @@ see earn FD on binace
  
 
 # Check status monthly:
-LIC 4157 - last paid: pay after 14/01/26
+LIC 4157 - last paid: pay after 14/06/26
+check status - Gender, DOB, father's name, mobile, Voter card of VP Bihar
+Remove Voter from Bengal gov. 
 
 Check farmer status:
 https://dbtagriculture.bihar.gov.in/regfarmer/pmkisanadmin/StatusLogin.aspx
