@@ -25,6 +25,7 @@ see earn FD on binace
 LIC 4157 - last paid: pay after 14/06/26
 check status - Gender, DOB, father's name, mobile, Voter card of VP Bihar
 Remove Voter from Bengal gov. 
+Apply all ration card in Bihar
 
 Check farmer status:
 https://dbtagriculture.bihar.gov.in/regfarmer/pmkisanadmin/StatusLogin.aspx
