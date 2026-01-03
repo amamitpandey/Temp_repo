@@ -23,7 +23,7 @@ see earn FD on binace - if you want trading than no, if you want to keep reserve
 
 # Check status monthly:
 LIC 4157 - last paid: pay after 14/06/26
-check status - Gender, DOB, father's name, mobile, Voter card of VP Bihar
+check status - Gender, DOB, father's name, mobile, Voter card of VP Bihar, UAO1440965, S0423608C3012251200106, last checked 1/3
 Remove Voter from Bengal gov. 
 
 Check farmer status:
