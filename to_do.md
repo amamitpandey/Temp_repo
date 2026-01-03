@@ -37,9 +37,8 @@ https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
 SD: Tr: 30082512250523449802, SD_adhar: 982039234604 - last check(27/9)
 Land works:
 Farmer registration for VP, LD, SD on agri portal
-Primajan: 253624893360634 Last_Chedked - (11/21-last updated, last checked 23/11)
+Primajan: 253624893360634 Rejected due to deed is not proper, check size in map or goverment written paper
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
-Register voter id with mobile no, VP - delete voter from WB fill up mobile no bihar, correct father no using PAN 
 
 ## to carry from kolkata
 - water can
