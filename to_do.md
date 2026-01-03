@@ -42,6 +42,23 @@ Primajan: 253624893360634 Last_Chedked - (11/21-last updated, last checked 23/11
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 Register voter id with mobile no, VP - delete voter from WB fill up mobile no bihar, correct father no using PAN 
 
+## to carry from kolkata
+- water can
+- bucket
+- broom
+- plastic clip
+- mixer
+- pellow 5 pcs
+- 3 single beds(thosak) + cover
+- 3 double bedsheet 
+- 2 blanket
+- oven
+- bike + 2 helmet
+- washing machine
+- fridge
+- 3 bed folding
+- one working table
+- 2 plastic chairs
 
 ## To note/study
 https://www.youtube.com/watch?v=F-YGQ6bMprc&list=RDCMUCBi_jWxxwrycd1f48y6jA7g&start_radio=1&ab_channel=SketchbookbyAbhishek  
