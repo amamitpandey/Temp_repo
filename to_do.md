@@ -18,14 +18,13 @@ Communication skill - search on cg sites
 Sql
 Remove unwanted file on onedrive and backup it. - done upto bnk dir
 Think about HDFC health insurance
-see earn FD on binace
+see earn FD on binace - if you want trading than no, if you want to keep reserve than yes
  
 
 # Check status monthly:
 LIC 4157 - last paid: pay after 14/06/26
 check status - Gender, DOB, father's name, mobile, Voter card of VP Bihar
 Remove Voter from Bengal gov. 
-Apply all ration card in Bihar
 
 Check farmer status:
 https://dbtagriculture.bihar.gov.in/regfarmer/pmkisanadmin/StatusLogin.aspx
@@ -75,6 +74,8 @@ https://www.englishwale.com/daily-use-english-sentences/
 Lesson - 11
 
 Filled SIR for mp, incorrect filled up by BLO
+Apply all ration card in Bihar - not eligible, in bengal not neccessary 
+
 
 
 
