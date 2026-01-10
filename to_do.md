@@ -16,7 +16,7 @@ People management
 Email writing skill - search on cg sites
 Communication skill - search on cg sites
 Sql
-Remove unwanted file on onedrive and backup it. - done upto bnk dir
+Remove unwanted file on onedrive and backup it. - done upto prf(Upto Am_kids)
 Think about HDFC health insurance
 see earn FD on binace - if you want trading than no, if you want to keep reserve than yes
  
