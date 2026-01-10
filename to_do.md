@@ -41,10 +41,8 @@ Primajan: 253624893360634 Rejected due to deed is not proper, check size in map 
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 
 ## to carry from kolkata
-- water can
+- Mug / lota
 - bucket
-- broom
-- plastic clip
 - mixer
 - pellow 5 pcs
 - 3 single beds(thosak) + cover
