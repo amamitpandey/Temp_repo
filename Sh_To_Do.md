@@ -63,7 +63,7 @@ Repeat same pattern in 6 months at least 2 times
 # Monthly strategy
 VP Details:
 Mf 20L
-ELSS approx 30k, start reddem from 1/26 and close it
+ELSS approx 30k, start reddem from 20/1/26 and close it
 
 Mp plan:
 Zensar: 2.6
@@ -87,7 +87,7 @@ Ap
 NPS 14k, EPF 7k
 SGB - 308k
 Crypto - 110k Binance
-5paisa don’t have option for sbg - start redeeming after 12/1/26 and close it
+5paisa don’t have option for sbg - start redeeming after 20/1/26 and close it
 
 To update teji mandi stock
 https://smlc.se/nxWsr
