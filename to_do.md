@@ -16,7 +16,6 @@ People management
 Email writing skill - search on cg sites
 Communication skill - search on cg sites
 Sql
-Remove unwanted file on onedrive and backup it. - done upto prf(Upto Am_kids)
 Think about HDFC health insurance
 see earn FD on binace - if you want trading than no, if you want to keep reserve than yes
  
@@ -27,16 +26,12 @@ Remove VP_Voter from Bengal gov.
 Mama - add voter card.
 
 Check farmer status:
-https://dbtagriculture.bihar.gov.in/regfarmer/pmkisanadmin/StatusLogin.aspx
-LD - add farmer id card - 10_210_1520_258134_005064
-Farmer registration of SD: bank-adhar seeding ok
-SD farmer-id updated:  2291395243644
-VP farmerid - 2371520391917, mo: 6543
-https://bhfr.agristack.gov.in/farmer-registry-bh/#/checkEnrolmentStatus
 https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
-SD: Tr: 30082512250523449802, SD_adhar: 982039234604 - last check(27/9)
+Verify after getting approved on PM kishan portal - PM Kisan → Farmers Corner → Beneficiary Status
+Farmer registration of SD: bank-adhar seeding ok
 Land works:
-Farmer registration for VP, SD on agri portal
+Register SD, SD_adhar: 982039234604
+Farmer registration for VP, SD on agri portal  - last check(*/9)
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 
 ## to carry from kolkata
