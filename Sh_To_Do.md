@@ -18,9 +18,13 @@ Coalindia
 TataSteel
 
 ## To research
+FMCG: search best 2 stock
+INFRA: search 3 stock and remove ETF
+Bank: serach 3 stocks and remove etf
+Search ETF for US defence stock
+Semiconductor - Kaynes Technology, tata elexi, IPO-tata electronics
 Data center - Techno electric - found good fundamental
 AI - cyeint,  Happiest Minds-analyis
-Semiconductor - Kaynes Technology, tata elexi, IPO-tata electronics
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
 Transportation company- blurdart, vrl, agies, gateway dristipark, 
@@ -28,17 +32,17 @@ Transportation company- blurdart, vrl, agies, gateway dristipark,
 
  
 # growing industry 
-Green Energy - tata power(LT), adani green power(ST), jsw energy(ST)
-Green Energy: ARE&M(ST), EXIDE(ST), M&M, Coal india(ST), 
+Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
 AI:  Zensar(LT), cyient(LT), HCL(LT), infy(ST), Wipro(ST), 
 Data center: techno electric(infra engg switch, avg:1450, SC), search for wires & cables
-Oil & paint & chemical: 
+Energy(Oil, gas, paint, chemical): Gail(ST)
 # Stable industry
 Pharma - Zydus(MF), DrReddy(MF), Cipla(ST), sunpharma(LT)
 Addiction - ITC(LT)
-Fmg- itc(LT), search alternative
-Auto: M&M(Lt), Baja auto(St), MarutiSuzuki(ST) 
+Fmcg- itc(LT, LC), Marico(LT, MC)
+Auto(cyclical): M&M(Lt), Baja auto(St), MarutiSuzuki(ST) 
 Bank: icici(ST), axis(st), idfcfirst-lt, lic-st
+Infra(cyclicak?): Cement, cable, steel
 Cables:  LT- (Metals-copper based), Polycab(ST)
 
 ## Note
