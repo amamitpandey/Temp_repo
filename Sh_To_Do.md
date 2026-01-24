@@ -18,7 +18,6 @@ Coalindia
 TataSteel
 
 ## To research
-FMCG: search best 2 stock
 INFRA: search 3 stock and remove ETF
 Bank: serach 3 stocks and remove etf
 Search ETF for US defence stock
