@@ -12,7 +12,7 @@ To do list
 
 ## Normal
 Java coding test
-People management 
+People management, context switching, search any course for recent managmnet by chat GPT  
 Email writing skill - search on cg sites
 Communication skill - search on cg sites
 Sql
@@ -64,7 +64,6 @@ http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.
 https://www.englishwale.com/daily-use-english-sentences/
 Lesson - 11
 
-Filled SIR for mp, incorrect filled up by BLO
 Apply all ration card in Bihar - not eligible, in bengal not neccessary 
 
 
