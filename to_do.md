@@ -22,8 +22,7 @@ see earn FD on binace - if you want trading than no, if you want to keep reserve
 
 # Check status monthly:
 LIC 4157 - last paid: pay after 14/06/26
-Remove VP_Voter from Bengal gov. 
-Mama - add voter card.
+Mama - check
 
 Check farmer status:
 https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
@@ -31,7 +30,7 @@ Verify after getting approved on PM kishan portal - PM Kisan → Farmers Corner 
 Farmer registration of SD: bank-adhar seeding ok
 Land works:
 Register SD, SD_adhar: 982039234604
-Farmer registration for VP, SD on agri portal  - last check(*/9)
+Farmer registration for SD on agri portal  - last check(*/9)
 Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
 
 ## to carry from kolkata
