@@ -30,8 +30,8 @@ Verify after getting approved on PM kishan portal - PM Kisan → Farmers Corner 
 Farmer registration of SD: bank-adhar seeding ok
 Land works:
 Register SD, SD_adhar: 982039234604
-Farmer registration for SD on agri portal  - last check(*/9)
-Paid bihar bhulagan - 18-30, 7476 SD - fill up parimajan for it
+Farmer registration for SD on PMKISAN portal  - last check(*/9)
+Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 
 ## to carry from kolkata
 - Mug / lota
