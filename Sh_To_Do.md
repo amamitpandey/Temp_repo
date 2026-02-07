@@ -18,7 +18,7 @@ Coalindia
 TataSteel
 
 ## To research
-Semiconductor - Kaynes Technology, tata elexi, IPO-tata electronics
+Semiconductor - Kaynes Technology, tata group, tata elexi, IPO-tata electronics
 Data center - Techno electric - found good fundamental
 INFRA: search 3 stock and remove ETF
 Bank: serach 3 stocks and remove etf
