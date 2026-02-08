@@ -18,8 +18,6 @@ Coalindia
 TataSteel
 
 ## To research
-Semiconductor - Kaynes Technology, tata group, tata elexi, IPO-tata electronics
-Data center - Techno electric - found good fundamental
 INFRA: search 3 stock and remove ETF
 Bank: serach 3 stocks and remove etf
 Search ETF for US defence stock
@@ -31,8 +29,9 @@ Transportation company- blurdart, vrl, agies, gateway dristipark,
 
  
 # growing industry 
-Semiconductor(Trend, budget):
+Semiconductor(Trend, budget): Kaynes Technology, CG power(TJ) tata elctonics(wait IPO)
 Rail(Budget): 
+Data center - Techno electric - found good fundamental
 Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
 AI:  MON100(LT), Zensar(LT), cyient(LT), HCL(LT), infy(ST), Wipro(ST), 
 Data center: techno electric(infra engg switch, avg:1450, SC), search for wires & cables
