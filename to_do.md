@@ -22,7 +22,6 @@ see earn FD on binace - if you want trading than no, if you want to keep reserve
 
 # Check status monthly:
 LIC 4157 - last paid: pay after 14/06/26
-Mama - check
 
 Check farmer status:
 https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
@@ -36,6 +35,9 @@ Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 ## to carry from kolkata
 - Mug / lota
 - bucket
+- clock
+- flat tawa
+- 3 layer karadi
 - mixer
 - pellow 5 pcs
 - 3 single beds(thosak) + cover
