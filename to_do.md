@@ -34,6 +34,7 @@ Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 
 ## to carry from kolkata
 - Mug / lota
+- extension board 
 - bucket
 - clock
 - flat tawa
