@@ -9,7 +9,9 @@ To do list
 - AWS
 - Azure
 
+Transafer 50k from VP zerodha
 VP= 15808(quant)+33414(MR)+33419(SBI)=82641
+Ap_ redeem ELSS
 
 
 ## Normal
