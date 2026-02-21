@@ -9,6 +9,8 @@ To do list
 - AWS
 - Azure
 
+VP= 15808(quant)+33414(MR)+33419(SBI)=82641
+
 
 ## Normal
 Java coding test
