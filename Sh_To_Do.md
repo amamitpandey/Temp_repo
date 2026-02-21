@@ -20,8 +20,7 @@ TataSteel
 ## To research
 INFRA: search 3 stock and remove ETF
 Bank: serach 3 stocks and remove etf
-Search ETF for US defence stock
-AI - cyeint,  Happiest Minds-analyis
+Search ETF for US defence stock - not available normally, need to use INDmoney
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
 Transportation company- blurdart, vrl, agies, gateway dristipark, 
@@ -33,7 +32,7 @@ Semiconductor(Trend, budget): Kaynes Technology, CG power(TJ) tata elctonics(wai
 Rail(Budget): 
 Data center - Techno electric - found good fundamental
 Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
-AI:  MON100(LT), Zensar(LT), cyient(LT), HCL(LT), infy(ST), Wipro(ST), 
+AI:  MON100(LT), cyient(LT), HCL(LT), infy(ST), Wipro(ST), 
 Data center: techno electric(infra engg switch, avg:1450, SC), search for wires & cables
 
 ## Others category: 
