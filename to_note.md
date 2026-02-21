@@ -12,20 +12,19 @@ Blue for skilled job, green for traders or business man
 - Butterfly ashan
 
 ### Travelling restrication:
-Restricted:
-from Bangalore to bengal - tue,wed
-Bengal to bihar -  fri, sunday 
-Blr to pat - Sat, mon
-Ccu to BLR - Thursday 
-Tax Exemption : NPS - 80CCD(2) comes in both regime, like HRA,LTA, gratuity, undefined limit, partnership, 
-Tax Deduction : 80c, epf 
-Update Pan details in LIC 292 ac - impossible because DOB is different better to wait until maturity
+- from Bangalore to bengal - tue,wed
+- Bengal to bihar -  fri, sunday
+- Blr to pat - Sat, mon
+- Ccu to BLR - Thursday
+
+## Info
+- Tax Exemption : NPS - 80CCD(2) comes in both regime  
+- Tax Deduction : 80c, epf, like HRA,LTA, gratuity, undefined limit, partnership, 
+- Update Pan details in LIC 292 ac - impossible because DOB is different better to wait until maturity
 
 ### Awarding system
 Want - Flat, Car
 Goal - Architetech and leader(improving communication skills)
-
-
 
 ### My daily routine 
 - important study time 8:30 to 10:30am(2 hrs)
@@ -34,7 +33,7 @@ Goal - Architetech and leader(improving communication skills)
 - Followup call: 5 - 6:30 pm
 - Warm_up: 7 - 8 warmup etc
 - Self-study, communication - 8 to 10pm(2 hrs)
-- office work: 6hrs, Skill works: 4 hrs
+- Summary: office work: 6hrs, Skill works: 4 hrs, 
 Grammar, daily word, daily diary
 Saturday - mediation, finance, grammar by book/british council tuts
 Sunday - reading books, scratching and watching funny videos.  
