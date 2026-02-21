@@ -28,10 +28,13 @@ Goal - Architetech and leader(improving communication skills)
 
 
 ### My daily routine 
-- important study time 8:30 to 10am
-- New and see market : around 12 and setup
-- Warm up 6:00pm 
-- office work:  10am - 4pm, if urgent extra work after 7 to 9
+- important study time 8:30 to 10:30am(2 hrs)
+- Meeting times, Stand_up, personal meet, News and see market : 10:30 to 12:00am(1:30 hrs)
+- Ofc coding works: 1 - 4 pm
+- Followup call: 5 - 6:30 pm
+- Warm_up: 7 - 8 warmup etc
+- Self-study, communication - 8 to 10pm(2 hrs)
+- office work: 6hrs, Skill works: 4 hrs
 Grammar, daily word, daily diary
 Saturday - mediation, finance, grammar by book/british council tuts
 Sunday - reading books, scratching and watching funny videos.  
