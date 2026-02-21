@@ -69,7 +69,7 @@ Repeat same pattern in 6 months at least 2 times
 
 # Monthly strategy
 VP Details:
-Mf 20L
+Mf 20L + 2.3L(pending) = target(24L)
 ELSS approx 30k, start reddem from 20/1/26 and close it
 
 Mp plan:
@@ -93,7 +93,7 @@ FD - 5l max, yes
 Ap
 NPS 14k, EPF 7k
 SGB - 308k
-Crypto - 110k Binance
+Crypto - 170k Binance
 5paisa don’t have option for sbg - start redeeming after 20/1/26 and close it
 
 To update teji mandi stock
