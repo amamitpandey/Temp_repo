@@ -20,11 +20,12 @@ TataSteel
 ## To research
 INFRA: search 3 stock and remove ETF
 Bank: serach 3 stocks and remove etf
-Search ETF for US defence stock - not available normally, need to use INDmoney
+Cables:  LT- (Metals-copper based), Polycab(ST)
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
 Transportation company- blurdart, vrl, agies, gateway dristipark, 
 2 real estate in portfolio : DLF Ltd, Godrej Properties Ltd-11.64, Oberoi Realty ltd, L&T Realty Ltd, Prestige Estate Project Ltd - 7.6%, Brigade Enterprises Ltd-10%, Phoenix Mills Ltd, Unitech Group, Ansal API,Lodha’s Organization
+Search ETF for US defence stock - not available normally, Need to use INDmoney(R&D - 21/2)
 
  
 # growing industry 
@@ -32,7 +33,7 @@ Semiconductor(Trend, budget): Kaynes Technology, CG power(TJ) tata elctonics(wai
 Rail(Budget): 
 Data center - Techno electric - found good fundamental
 Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
-AI:  MON100(LT), cyient(LT), HCL(LT), infy(ST), Wipro(ST), 
+AI:  MON100(LT), cyient(LT, Semicoductro, aero engg), Zenasar(IT, AI, good fundamental), HCL(LT), infy(ST), Wipro(ST), 
 Data center: techno electric(infra engg switch, avg:1450, SC), search for wires & cables
 
 ## Others category: 
@@ -45,7 +46,7 @@ Infra(cyclicak?): Cement, cable, steel, Metal
 Cables:  LT- (Metals-copper based), Polycab(ST)
 Bank: icici(ST), axis(st), idfcfirst(LT TJ), lic(ST)
 Pharma - Zydus(MF), DrReddy(MF), Cipla(ST), sunpharma(LT)
-Fmcg- itc(LT, LC, Addiction), Marico(LT, MC)
+Fmcg- Itc(LT, LC, Addiction), Marico(LT, MC)
 
 ## Note
 
