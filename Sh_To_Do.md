@@ -43,7 +43,7 @@ Infra(cyclicak?): Cement, cable, steel, Metal
 ## Stable industry
 
 Cables:  LT- (Metals-copper based), Polycab(ST)
-Bank: icici(LT), axis(Lt), idfcfirst(LT TJ), lic(ST)
+Bank: icici(LT), axis(Lt), idfcfirst(LT TJ), lic(ST), HDFC(ST)
 Pharma - Zydus(MF), DrReddy(MF), Cipla(ST), sunpharma(LT)
 Fmcg- Itc(LT, LC, Addiction), Marico(LT, MC)
 
