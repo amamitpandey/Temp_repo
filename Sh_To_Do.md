@@ -19,7 +19,6 @@ TataSteel
 
 ## To research
 INFRA: search 3 stock and remove ETF
-Bank: serach 3 stocks and remove etf
 Cables:  LT- (Metals-copper based), Polycab(ST)
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
 Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
@@ -44,7 +43,7 @@ Infra(cyclicak?): Cement, cable, steel, Metal
 ## Stable industry
 
 Cables:  LT- (Metals-copper based), Polycab(ST)
-Bank: icici(ST), axis(st), idfcfirst(LT TJ), lic(ST)
+Bank: icici(LT), axis(Lt), idfcfirst(LT TJ), lic(ST)
 Pharma - Zydus(MF), DrReddy(MF), Cipla(ST), sunpharma(LT)
 Fmcg- Itc(LT, LC, Addiction), Marico(LT, MC)
 
