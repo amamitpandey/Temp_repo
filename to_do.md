@@ -1,6 +1,7 @@
 To do list  
 ## Urgent
-- kafka - complete udemay training
+- fix SBG details to get interest.
+- go through kafka shared doc
 - opensearch
 - K8s
 - Git action
@@ -15,6 +16,7 @@ Ap_ redeem ELSS
 
 
 ## Normal
+- comelete udemy management course
 Java coding test
 People management, context switching, search any course for recent managmnet by chat GPT  
 Email writing skill - search on cg sites
@@ -37,24 +39,8 @@ Farmer registration for SD on PMKISAN portal  - last check(*/9)
 Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 
 ## to carry from kolkata
-- Mug / lota
-- extension board 
-- bucket
-- clock
 - flat tawa
-- 3 layer karadi
-- mixer
-- pellow 5 pcs
-- 3 single beds(thosak) + cover
-- 3 double bedsheet 
-- 2 blanket
-- oven
-- bike + 2 helmet
-- washing machine
-- fridge
-- 3 bed folding
-- one working table
-- 2 plastic chairs
+- 1 iron chairs
 
 ## To note/study
 https://www.youtube.com/watch?v=F-YGQ6bMprc&list=RDCMUCBi_jWxxwrycd1f48y6jA7g&start_radio=1&ab_channel=SketchbookbyAbhishek  
