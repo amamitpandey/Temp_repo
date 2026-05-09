@@ -1,6 +1,5 @@
 To do list  
 ## Urgent
-- fix SBG details to get interest.
 - go through kafka shared doc
 - opensearch
 - K8s
@@ -8,7 +7,6 @@ To do list
 - Helm
 - Complete java all pending questions 
 - AWS
-- Azure
 
 Transafer 50k from VP zerodha
 VP= 15808(quant)+33414(MR)+33419(SBI)=82641
@@ -28,6 +26,7 @@ see earn FD on binace - if you want trading than no, if you want to keep reserve
 
 # Check status monthly:
 LIC 4157 - last paid: pay after 14/06/26
+- fix SBG details to get interest. - monitor after JAN 27
 
 Check farmer status:
 https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
@@ -40,7 +39,7 @@ Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 
 ## to carry from kolkata
 - flat tawa
-- 1 iron chairs
+- 1 iron foldable chairs
 
 ## To note/study
 https://www.youtube.com/watch?v=F-YGQ6bMprc&list=RDCMUCBi_jWxxwrycd1f48y6jA7g&start_radio=1&ab_channel=SketchbookbyAbhishek  
