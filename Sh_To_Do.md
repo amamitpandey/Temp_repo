@@ -1,7 +1,7 @@
 ## To do task:
 Make sheet for sync
 
-Sell : jswenergy
+Sell : 
 BUY: Bond, TataPower(LT), Mindspace - max 2l for stable income only for diversification, fair rate:280
 
 ## Swing trade stocks:
