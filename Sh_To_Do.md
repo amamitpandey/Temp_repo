@@ -18,7 +18,6 @@ Coalindia
 TataSteel
 
 ## To research
-exide and AREM, is high at result time?, is cyclicle?
 INFRA: search 3 stock and remove ETF
 Cables:  LT- (Metals-copper based), Polycab(ST)
 Sterling & Wilson Renewable Energy, Suzlon Energy, 
@@ -32,7 +31,7 @@ Search ETF for US defence stock - not available normally, Need to use INDmoney(R
 AI:  MON100(LT), cyient(LT, Semicoductro, aero engg), Zenasar(IT, AI, good fundamental), HCL(LT), infy(ST), Wipro(ST), 
 Data center: Techno electric(infra engg switch, avg:1450, found good fundamental), search for wires & cables(Seatch for L&T)
 Semiconductor(Trend, budget): Kaynes Technology, CG power(TJ) tata elctonics(wait IPO)
-Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
+Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT, partially cyclical, depend on result high/low), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
 
 ## Others category: 
 Energy(Oil, gas, paint, chemical): Gail(ST)
