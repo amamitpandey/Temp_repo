@@ -1,5 +1,6 @@
 To do list  
 ## Urgent
+- solve icici joint issue, add another no for card
 - go through kafka shared doc
 - opensearch
 - K8s
