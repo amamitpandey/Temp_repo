@@ -15,6 +15,8 @@ Ap_ redeem ELSS
 
 
 ## Normal
+- transfer all amt to not org in epfo
+- enable face auth 
 ## Banglore electricity bill work
 Average = only 17 units  to 180 unit
 Sanctioned load = 0.24 KW to 1kw
