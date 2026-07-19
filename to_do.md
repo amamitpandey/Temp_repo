@@ -1,6 +1,5 @@
 To do list  
 ## Urgent
-- solve icici joint issue, add another no for card
 - go through kafka shared doc
 - opensearch
 - K8s
@@ -9,22 +8,16 @@ To do list
 - Complete java all pending questions 
 - AWS
 
-Transafer 50k from VP zerodha
-VP= 15808(quant)+33414(MR)+33419(SBI)=82641
-Ap_ redeem ELSS
-
-
 ## Normal
+- Monitor SBI if there not 30k, if not transfer from zerodha
 - transfer all amt to not org in epfo
 - enable face auth 
 ## Banglore electricity bill work
 Average = only 17 units  to 180 unit
 Sanctioned load = 0.24 KW to 1kw
 
-
-
 - comelete udemy management course
-Java coding test
+- Java coding test
 People management, context switching, search any course for recent managmnet by chat GPT  
 Email writing skill - search on cg sites
 Communication skill - search on cg sites
@@ -34,7 +27,7 @@ see earn FD on binace - if you want trading than no, if you want to keep reserve
  
 
 # Check status monthly:
-LIC 4157 - last paid: pay after 14/06/26
+LIC 4157 - last paid: pay after 14/01/27
 - fix SBG details to get interest. - monitor after JAN 27
 
 Check farmer status:
