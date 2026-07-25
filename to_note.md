@@ -51,6 +51,7 @@ Form - 3 Inclusion of Family under Khadyasathi Scheme - MP, SP
 Form - 6 Change of FPS, shifting entire family, change add
 Form - 14  may be needed for MP
 Form - 5 applied, not needed 
+- Apply all ration card in Bihar - not eligible, in bengal not neccessary 
 
 
 
