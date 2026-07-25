@@ -36,20 +36,16 @@ To do list
 - 1 iron foldable chairs
 
 ## To note/study
-https://www.youtube.com/watch?v=F-YGQ6bMprc&list=RDCMUCBi_jWxxwrycd1f48y6jA7g&start_radio=1&ab_channel=SketchbookbyAbhishek  
-https://www.geeksforgeeks.org/collections-in-java-2/
-https://javaconceptoftheday.com/collection-framework-class-hierarchy/
+- Sketch: https://www.youtube.com/watch?v=F-YGQ6bMprc&list=RDCMUCBi_jWxxwrycd1f48y6jA7g&start_radio=1&ab_channel=SketchbookbyAbhishek  
+- java: https://www.geeksforgeeks.org/collections-in-java-2/
+        https://javaconceptoftheday.com/collection-framework-class-hierarchy/
 
-Eng professional skill // https://www.youtube.com/watch?v=3Tu1jN65slw
 
-https://www.fluentu.com/blog/english/basic-english-phrases/
+- English: https://www.fluentu.com/blog/english/basic-english-phrases/
+           http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.pdf 1-14
+           https://www.englishwale.com/daily-use-english-sentences/         Lesson - 11
 
-http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.pdf 
-1-14
-https://www.englishwale.com/daily-use-english-sentences/
-Lesson - 11
-
-Apply all ration card in Bihar - not eligible, in bengal not neccessary 
+- Apply all ration card in Bihar - not eligible, in bengal not neccessary 
 
 
 
