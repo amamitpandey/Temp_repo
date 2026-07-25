@@ -20,6 +20,7 @@ To do list
  
 
 # Check status monthly:
+- MP epic registration: S2517006N2507261200132, https://voters.eci.gov.in/home/track
 - LIC 4157 - last paid: pay after 14/01/27
 - fix SBG details fixed to get interest. - monitor after JAN 27, last sent mail on 25/7
 - Banglore electricity bill work, Average = only 17 units  to 180 unit, Sanctioned load = 0.24 KW to 1kw
