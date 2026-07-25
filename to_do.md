@@ -10,37 +10,29 @@ To do list
 
 ## Normal
 - Monitor SBI if there not 30k, if not transfer from zerodha
-- transfer all amt to not org in epfo
-- enable face auth 
-## Banglore electricity bill work
-Average = only 17 units  to 180 unit
-Sanctioned load = 0.24 KW to 1kw
-
+- transfer all amt to not org in epfo, enable face auth 
 - comelete udemy management course
 - Java coding test
-People management, context switching, search any course for recent managmnet by chat GPT  
-Email writing skill - search on cg sites
-Communication skill - search on cg sites
-Sql
-Think about HDFC health insurance
-see earn FD on binace - if you want trading than no, if you want to keep reserve than yes
+- got tut list form deepak, manegement and communication, complete it
+- Sql
+- Think about HDFC health insurance
+- see earn FD on binace - if you want trading than no, if you want to keep reserve than yes
  
 
 # Check status monthly:
-LIC 4157 - last paid: pay after 14/01/27
-- fix SBG details to get interest. - monitor after JAN 27
-
-Check farmer status:
-https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
-Verify after getting approved on PM kishan portal - PM Kisan → Farmers Corner → Beneficiary Status
-Farmer registration of SD: bank-adhar seeding ok
-Land works:
-Register SD, SD_adhar: 982039234604
-Farmer registration for SD on PMKISAN portal  - last check(*/9)
-Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
+- LIC 4157 - last paid: pay after 14/01/27
+- fix SBG details fixed to get interest. - monitor after JAN 27, last sent mail on 25/7
+- Banglore electricity bill work, Average = only 17 units  to 180 unit, Sanctioned load = 0.24 KW to 1kw
+- Check farmer status:
+   https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
+   Verify after getting approved on PM kishan portal - PM Kisan → Farmers Corner → Beneficiary Status
+   Farmer registration of SD: bank-adhar seeding ok
+   Land works:
+   Register SD, SD_adhar: 982039234604
+   Farmer registration for SD on PMKISAN portal  - last check(*/9)
+   Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 
 ## to carry from kolkata
-- flat tawa
 - 1 iron foldable chairs
 
 ## To note/study
