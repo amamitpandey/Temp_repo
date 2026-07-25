@@ -1,21 +1,19 @@
 ## To do task:
-Make sheet for sync
 
-Sell : 
-BUY: Bond, TataPower(LT), Mindspace - max 2l for stable income only for diversification, fair rate:280
+- Sell : 
+- BUY: Bond, Mindspace - max 2l for stable income only for diversification, fair rate:280
+- apply amazon icic card
 
 ## Swing trade stocks:
 ### 10%
-Reliance 
-Gail 
-ICICI
-HCL
+- Reliance 
+- Gail
 ### 5%
-Cipla
-Infy
-Wipro
-Coalindia
-TataSteel
+- Cipla
+- Infy
+- Wipro
+- Coalindia
+- TataSteel
 
 ## To research
 INFRA: search 3 stock and remove ETF
