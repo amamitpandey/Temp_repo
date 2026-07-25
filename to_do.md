@@ -45,7 +45,6 @@ To do list
            http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.pdf 1-14
            https://www.englishwale.com/daily-use-english-sentences/         Lesson - 11
 
-- Apply all ration card in Bihar - not eligible, in bengal not neccessary 
 
 
 
