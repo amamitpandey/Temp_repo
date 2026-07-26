@@ -9,18 +9,18 @@ To do list
 - AWS
 
 ## Normal
-- Monitor SBI if there not 30k, if not transfer from zerodha
-- transfer all amt to not org in epfo, enable face auth 
+- Monitor SBI if there not 30k, if not transfer from zerodha 
 - comelete udemy management course
 - Java coding test
-- got tut list form deepak, manegement and communication, complete it
-- Sql
+- got tuts list form deepak, manegement and communication, complete it
+- Sql, CTW/with query
 - Think about HDFC health insurance
 - see earn FD on binace - if you want trading than no, if you want to keep reserve than yes
  
 
 # Check status monthly:
 - MP epic registration: S2517006N2507261200132, https://voters.eci.gov.in/home/track
+- transfer all amt to not org in epfo, enable face auth, applied on 26/7
 - LIC 4157 - last paid: pay after 14/01/27
 - fix SBG details fixed to get interest. - monitor after JAN 27, last sent mail on 25/7
 - Banglore electricity bill work, Average = only 17 units  to 180 unit, Sanctioned load = 0.24 KW to 1kw
