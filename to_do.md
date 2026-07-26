@@ -26,11 +26,6 @@ To do list
 - Banglore electricity bill work, Average = only 17 units  to 180 unit, Sanctioned load = 0.24 KW to 1kw
 - Check farmer status:
    https://www.bhulagan.bihar.gov.in/dv_pending_receipt.aspx
-   Verify after getting approved on PM kishan portal - PM Kisan → Farmers Corner → Beneficiary Status
-   Farmer registration of SD: bank-adhar seeding ok
-   Land works:
-   Register SD, SD_adhar: 982039234604
-   Farmer registration for SD on PMKISAN portal  - last check(*/9)
    Paid bihar bhulagan - 18 - Rs30, - fill up parimajan for it
 
 ## to carry from kolkata
