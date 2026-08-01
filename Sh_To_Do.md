@@ -28,7 +28,7 @@ Search ETF for US defence stock - not available normally, Need to use INDmoney(R
 # growing industry 
 AI:  MON100(LT), cyient(LT, Semicoductro, aero engg), Zenasar(IT, AI, good fundamental), HCL(LT), infy(ST), Wipro(ST), 
 Data center: Techno electric(infra engg switch, avg:1450, found good fundamental), search for wires & cables(Seatch for L&T)
-Semiconductor(Trend, budget): Kaynes Technology, CG power(TJ) tata elctonics(wait IPO)
+Semiconductor(Trend, budget): Kaynes Technology(risk not fair value but start invest 2k), CG power(TJ), hcl(joint ventures in up), cyient (just design), tata elctonics(wait IPO)
 Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT, partially cyclical, depend on result high/low), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
 
 ## Others category: 
