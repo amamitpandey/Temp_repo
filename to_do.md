@@ -13,8 +13,7 @@ To do list
 - Java coding test
 - got tuts list form deepak, manegement and communication, complete it
 - Sql, CTW/with query
-- Think about HDFC health insurance
- 
+  
 
 # Check status monthly:
 - Monitor SBI if there not 30k, if not transfer from zerodha 
