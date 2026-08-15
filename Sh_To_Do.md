@@ -16,13 +16,12 @@
 - TataSteel
 
 ## To research
-INFRA: search 3 stock and remove ETF
-Cables:  LT- (Metals-copper based), Polycab(ST)
-Sterling & Wilson Renewable Energy, Suzlon Energy, 
-Search Defence etf, stock, Data centre, infra stock, Agro fertilizer  
-Transportation company- blurdart, vrl, agies, gateway dristipark, 
-2 real estate in portfolio : DLF Ltd, Godrej Properties Ltd-11.64, Oberoi Realty ltd, L&T Realty Ltd, Prestige Estate Project Ltd - 7.6%, Brigade Enterprises Ltd-10%, Phoenix Mills Ltd, Unitech Group, Ansal API,Lodha’s Organization
-Search ETF for US defence stock - not available normally, Need to use INDmoney(R&D - 21/2)
+- green energy : Sterling & Wilson Renewable Energy, Suzlon Energy, ARE&M(LT), EXIDE(LT, partially cyclical, depend on result high/low),
+- Copper:  cables, semicondutor(Silver works too), LT- (Metals-copper based), Polycab(ST)
+- INFRA: search 3 stock and remove ETF
+- Search Defence etf(Bhel), stock, Agro fertilizer  
+- Transportation company- blurdart, vrl, agies, gateway dristipark, 
+- 2 real estate in portfolio : DLF Ltd, Godrej Properties Ltd-11.64, Oberoi Realty ltd, L&T Realty Ltd, Prestige Estate Project Ltd - 7.6%, Brigade Enterprises Ltd-10%, Phoenix Mills Ltd, Unitech Group, Ansal API,Lodha’s Organization
 
  
 # growing industry 
