@@ -19,14 +19,14 @@
 - green energy : Sterling & Wilson Renewable Energy, Suzlon Energy, ARE&M(LT), EXIDE(LT, partially cyclical, depend on result high/low),
 - Copper:  cables, semicondutor(Silver works too), LT- (Metals-copper based), Polycab(ST)
 - INFRA: search 3 stock and remove ETF
-- Search Defence etf(Bhel), stock, Agro fertilizer  
-- Transportation company- blurdart, vrl, agies, gateway dristipark, 
+- Search Defence etf(Bhel), stock, Agro fertilizer, depend on goverment policy  
+- Transportation company- blurdart, vrl, agies, gateway dristipark, due to increasing ecommerce demand
 - 2 real estate in portfolio : DLF Ltd, Godrej Properties Ltd-11.64, Oberoi Realty ltd, L&T Realty Ltd, Prestige Estate Project Ltd - 7.6%, Brigade Enterprises Ltd-10%, Phoenix Mills Ltd, Unitech Group, Ansal API,Lodha’s Organization
 
  
 # growing industry 
 AI:  MON100(LT), cyient(LT, Semicoductro, aero engg), Zenasar(IT, AI, good fundamental), HCL(LT), infy(ST), Wipro(ST), 
-Data center: Techno electric(infra engg switch, avg:1450, found good fundamental), search for wires & cables(Seatch for L&T)
+Data center: Techno electric(infra engg switch, avg:1450, found good fundamental), search for wires & cables(Search for L&T)
 Semiconductor(Trend, budget): Kaynes Technology(risk not fair value but start invest 2k), CG power(TJ), hcl(joint ventures in up), cyient (just design), tata elctonics(wait IPO)
 Green Energy(TREND, cyclical): ARE&M(LT), EXIDE(LT, partially cyclical, depend on result high/low), M&M(LT),  tata power(LT), adani green power(ST), jsw energy(ST), Coal india(ST), 
 
