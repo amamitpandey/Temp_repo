@@ -2,7 +2,7 @@
 
 - Sell : 
 - BUY: Bond, Mindspace - max 2l for stable income only for diversification, fair rate:280
-- better to apply hdfc mellinia or sbi cashback, apply amazon icic card - i can apply after 25/11/26 due to already applied
+- better to apply sbi cashback or hdfc nue, apply amazon icic card - i can apply after 25/11/26 due to already applied
 
 ## Swing trade stocks:
 ### 10%
